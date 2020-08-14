@@ -10,7 +10,7 @@
 
 title: JadeKharats                        # the main title
 
-tagline: David YOTEAU  # it will display as the sub-title
+tagline: Software craftman  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Software craftman. Software Blacksmith. Ruby jedi master. Crystal padawan.
@@ -19,7 +19,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://JadeKharats.github.io'
 
-author: David YOTEAU                  # change to your full name
+author: Jade Kharats                  # change to your full name
 
 avatar: /assets/img/avatar.jpeg   # support internet resources
 
