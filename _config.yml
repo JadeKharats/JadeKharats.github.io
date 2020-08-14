@@ -8,19 +8,18 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: @david_yoteau                        # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: David YOTEAU  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Software craftman. Software Blacksmith. Ruby jedi master. Crystal padawan.
+  Work on side project : Bom, QCM and Kick
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://JadeKharats.github.io'
 
-author: your_full_name                  # change to your full name
+author: David YOTEAU                  # change to your full name
 
 avatar: /assets/img/avatar.jpeg   # support internet resources
 
